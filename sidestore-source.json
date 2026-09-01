@@ -22,19 +22,15 @@
       "screenshots": [],
       "versions": [
         {
-          "version": "0.1.0",
-          "buildVersion": "24",
-          "marketingVersion": "0.1.0-alpha.35",
+          "version": "0.1.35",
           "date": "2026-09-01T20:35:28Z",
           "localizedDescription": "Preserves the private Hub pairing across SideStore updates with a validated, device-local recovery path.",
           "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.35/Unified-0.1.0-alpha.35-ios-unsigned.ipa",
-          "size": 11345573,
+          "size": 11345578,
           "minOSVersion": "16.4"
         },
         {
           "version": "0.1.0",
-          "buildVersion": "23",
-          "marketingVersion": "0.1.0-alpha.34",
           "date": "2026-09-01T19:53:48Z",
           "localizedDescription": "Improved the iOS inbox and conversation layouts, updated Unified branding, and included the latest messaging and media fixes.",
           "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.34/Unified-0.1.0-alpha.34-ios-unsigned.ipa",
