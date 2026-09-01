@@ -1,0 +1,45 @@
+{
+  "name": "Unified",
+  "subtitle": "Private messaging across every network.",
+  "description": "Install and update the Unified iOS app directly through SideStore.",
+  "iconURL": "https://raw.githubusercontent.com/duaragha/unified-inbox-releases/main/unified-icon.png",
+  "website": "https://github.com/duaragha/unified-inbox-releases",
+  "tintColor": "#55D6C2",
+  "nsfw": false,
+  "featuredApps": [
+    "dev.unifiedinbox.mobile"
+  ],
+  "apps": [
+    {
+      "name": "Unified",
+      "bundleIdentifier": "dev.unifiedinbox.mobile",
+      "developerName": "Raghav Dua",
+      "subtitle": "All your private chats in one inbox.",
+      "localizedDescription": "Unified brings your private messaging networks together through your own private Hub.",
+      "iconURL": "https://raw.githubusercontent.com/duaragha/unified-inbox-releases/main/unified-icon.png",
+      "tintColor": "#55D6C2",
+      "category": "social",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "0.1.0",
+          "buildVersion": "23",
+          "marketingVersion": "0.1.0-alpha.34",
+          "date": "2026-09-01T19:53:48Z",
+          "localizedDescription": "Improved the iOS inbox and conversation layouts, updated Unified branding, and included the latest messaging and media fixes.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.34/Unified-0.1.0-alpha.34-ios-unsigned.ipa",
+          "size": 11343002,
+          "minOSVersion": "16.4"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSFaceIDUsageDescription": "Allow Unified to unlock this device session.",
+          "NSMicrophoneUsageDescription": "Allow Unified to record voice notes you choose to send."
+        }
+      }
+    }
+  ],
+  "news": []
+}
