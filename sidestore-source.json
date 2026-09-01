@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.36",
+          "date": "2026-09-01T21:14:05Z",
+          "localizedDescription": "Stabilizes swipe-to-archive and swipe-to-reply, and makes inline video previews substantially more compact.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.36/Unified-0.1.0-alpha.36-ios-unsigned.ipa",
+          "size": 11346753,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.35",
           "date": "2026-09-01T20:35:28Z",
           "localizedDescription": "Preserves the private Hub pairing across SideStore updates with a validated, device-local recovery path.",
