@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.41",
+          "date": "2026-09-06T06:59:23.943653Z",
+          "localizedDescription": "Videos stay paused until tapped, then open and play fullscreen. Closed chats cancel pending media downloads so new media can load sooner.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.51/Unified-0.1.0-alpha.51-ios-unsigned.ipa",
+          "size": 11354232,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.40",
           "date": "2026-09-06T03:02:32.280344Z",
           "localizedDescription": "Fix live synchronization after idle responses and automatic recovery when the desktop history cache fills.",
