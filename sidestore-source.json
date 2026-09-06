@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.40",
+          "date": "2026-09-06T03:02:32.280344Z",
+          "localizedDescription": "Fix live synchronization after idle responses and automatic recovery when the desktop history cache fills.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.50/Unified-0.1.0-alpha.50-ios-unsigned.ipa",
+          "size": 11351553,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.39",
           "date": "2026-09-06T02:37:59.374514Z",
           "localizedDescription": "Coordinated release with automatic recovery for frozen desktop live updates and sent indicators.",
