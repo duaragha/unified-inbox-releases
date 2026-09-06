@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.42",
+          "date": "2026-09-06T07:08:53.755692Z",
+          "localizedDescription": "Separate Codes and Requests tabs alongside Inbox, Archive, Low Priority, and Merged Chats. Provider-confirmed requests and verification-code-only conversations are organized automatically.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.52/Unified-0.1.0-alpha.52-ios-unsigned.ipa",
+          "size": 11354942,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.41",
           "date": "2026-09-06T06:59:23.943653Z",
           "localizedDescription": "Videos stay paused until tapped, then open and play fullscreen. Closed chats cancel pending media downloads so new media can load sooner.",
