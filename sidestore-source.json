@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.47",
+          "date": "2026-09-06T21:17:08.811635Z",
+          "localizedDescription": "Video now streams from the Hub instead of downloading in full first, so reels, TikToks and recorded clips start almost immediately on mobile. Fixed the desktop hover reaction bar being clipped.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.57/Unified-0.1.0-alpha.57-ios-unsigned.ipa",
+          "size": 11357307,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.45",
           "date": "2026-09-06T20:43:14.023101Z",
           "localizedDescription": "Reply previews now resolve correctly across history boundaries and for optimistic sends.",
