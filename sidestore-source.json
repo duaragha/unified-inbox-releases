@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.45",
+          "date": "2026-09-06T20:43:14.023101Z",
+          "localizedDescription": "Reply previews now resolve correctly across history boundaries and for optimistic sends.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.55/Unified-0.1.0-alpha.55-ios-unsigned.ipa",
+          "size": 11358645,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.44",
           "date": "2026-09-06T17:22:48.451577Z",
           "localizedDescription": "Instant inbox opening from local cache. Trimmed initial sync window cuts startup delay from ~30s down to ~2s. Fixed composer input keyboard overlap and bottom navigation bar height.",
