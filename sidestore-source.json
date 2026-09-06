@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.43",
+          "date": "2026-09-06T16:35:55.181573Z",
+          "localizedDescription": "Chats open at the newest message. History paging fills gaps in sparse cached messages. Connected account labels stay stable without changing message destinations.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.53/Unified-0.1.0-alpha.53-ios-unsigned.ipa",
+          "size": 11355135,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.42",
           "date": "2026-09-06T07:08:53.755692Z",
           "localizedDescription": "Separate Codes and Requests tabs alongside Inbox, Archive, Low Priority, and Merged Chats. Provider-confirmed requests and verification-code-only conversations are organized automatically.",
