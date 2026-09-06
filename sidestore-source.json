@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.39",
+          "date": "2026-09-06T02:37:59.374514Z",
+          "localizedDescription": "Coordinated release with automatic recovery for frozen desktop live updates and sent indicators.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.49/Unified-0.1.0-alpha.49-ios-unsigned.ipa",
+          "size": 11351529,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.38",
           "date": "2026-09-06T02:25:47.141665Z",
           "localizedDescription": "Compact inline Instagram reels, swipe to reveal sent times, cleaner Instagram read receipts, and a centered composer icon.",
