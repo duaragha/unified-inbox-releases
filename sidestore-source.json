@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.48",
+          "date": "2026-09-08T13:52:14.829686+00:00",
+          "localizedDescription": "Removed the (WA) suffix from WhatsApp chat names.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.58/Unified-0.1.0-alpha.58-ios-unsigned.ipa",
+          "size": 11360268,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.47",
           "date": "2026-09-06T21:17:08.811635Z",
           "localizedDescription": "Video now streams from the Hub instead of downloading in full first, so reels, TikToks and recorded clips start almost immediately on mobile. Fixed the desktop hover reaction bar being clipped.",
