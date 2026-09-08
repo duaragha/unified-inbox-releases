@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.55",
+          "date": "2026-09-08T23:42:17.128419+00:00",
+          "localizedDescription": "Adds incoming WhatsApp voice calls while Unified is open. Link calling separately using WhatsApp Linked Devices. Includes answer, decline, mute, and speaker controls.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.67/Unified-0.1.0-alpha.67-ios-unsigned.ipa",
+          "size": 16436756,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.54",
           "date": "2026-09-08T20:36:09.691234+00:00",
           "localizedDescription": "Resume the saved inbox immediately on launch, catch up missed changes on foreground, and eliminate empty-poll redraws.",
