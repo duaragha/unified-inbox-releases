@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.49",
+          "date": "2026-09-08T14:30:22.885767+00:00",
+          "localizedDescription": "Removed the (WA) suffix from WhatsApp chat names.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.59/Unified-0.1.0-alpha.59-ios-unsigned.ipa",
+          "size": 11360358,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.48",
           "date": "2026-09-08T13:52:14.829686+00:00",
           "localizedDescription": "Removed the (WA) suffix from WhatsApp chat names.",
