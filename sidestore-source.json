@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.60",
+          "date": "2026-09-09T16:28:01.416198+00:00",
+          "localizedDescription": "The inbox no longer claims the Hub is offline when a weak signal drops a poll; connection state is now judged on how long it has really been failing.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.74/Unified-0.1.0-alpha.74-ios-unsigned.ipa",
+          "size": 16428842,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.59",
           "date": "2026-09-09T14:55:43.346473+00:00",
           "localizedDescription": "Mobile call buttons now use the same outlined handset icons as desktop.",
