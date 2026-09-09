@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.56",
+          "date": "2026-09-09T03:41:09.195744+00:00",
+          "localizedDescription": "WhatsApp messages and incoming calls now share your existing connection. No separate calling QR or second link.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.68/Unified-0.1.0-alpha.68-ios-unsigned.ipa",
+          "size": 16424191,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.55",
           "date": "2026-09-08T23:42:17.128419+00:00",
           "localizedDescription": "Adds incoming WhatsApp voice calls while Unified is open. Link calling separately using WhatsApp Linked Devices. Includes answer, decline, mute, and speaker controls.",
