@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.61",
+          "date": "2026-09-09T16:57:41.362819+00:00",
+          "localizedDescription": "Restore WhatsApp contact and group sender names after missed profile lookups. Desktop group messages now show sender photos and initials.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.75/Unified-0.1.0-alpha.75-ios-unsigned.ipa",
+          "size": 15636621,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.60",
           "date": "2026-09-09T16:28:01.416198+00:00",
           "localizedDescription": "The inbox no longer claims the Hub is offline when a weak signal drops a poll; connection state is now judged on how long it has really been failing.",
