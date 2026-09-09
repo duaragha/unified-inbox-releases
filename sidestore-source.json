@@ -24,9 +24,9 @@
         {
           "version": "0.1.61",
           "date": "2026-09-09T16:57:41.362819+00:00",
-          "localizedDescription": "Restore WhatsApp contact and group sender names after missed profile lookups. Desktop group messages now show sender photos and initials.",
+          "localizedDescription": "Rebuilt to restore frameworks missing from the previous build, which stopped the app launching.",
           "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.75/Unified-0.1.0-alpha.75-ios-unsigned.ipa",
-          "size": 15636621,
+          "size": 16428842,
           "minOSVersion": "16.4"
         },
         {
