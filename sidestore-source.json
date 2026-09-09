@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.63",
+          "date": "2026-09-09T18:56:10.296810+00:00",
+          "localizedDescription": "Start reels progressively and recover failed Instagram video previews automatically.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.77/Unified-0.1.0-alpha.77-ios-unsigned.ipa",
+          "size": 16428845,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.62",
           "date": "2026-09-09T18:34:34.835548+00:00",
           "localizedDescription": "Rebuilt so the app launches again: the previous build shipped without the React frameworks it loads at startup.",
