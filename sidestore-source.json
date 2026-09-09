@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.64",
+          "date": "2026-09-09T19:31:00.788765+00:00",
+          "localizedDescription": "Background calling TEST: audio standby keeps incoming WhatsApp calls eligible while Unified remains running. Locked-screen acceptance is pending. Reopen Unified after calls or interruptions in this trial.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/ios-call-trial-0.1.64/Unified-0.1.64-call-trial-ios-unsigned.ipa",
+          "size": 16430937,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.63",
           "date": "2026-09-09T18:56:10.296810+00:00",
           "localizedDescription": "Start reels progressively and recover failed Instagram video previews automatically.",
