@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.62",
+          "date": "2026-09-09T18:34:34.835548+00:00",
+          "localizedDescription": "Rebuilt so the app launches again: the previous build shipped without the React frameworks it loads at startup.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.76/Unified-0.1.0-alpha.76-ios-unsigned.ipa",
+          "size": 16428842,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.61",
           "date": "2026-09-09T16:57:41.362819+00:00",
           "localizedDescription": "Rebuilt to restore frameworks missing from the previous build, which stopped the app launching.",
