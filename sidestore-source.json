@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.66",
+          "date": "2026-09-10T02:28:59.033595+00:00",
+          "localizedDescription": "Relaunching is quick again: the saved inbox no longer revalidates the whole message history on the phone's UI thread before the app becomes usable.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.79/Unified-0.1.0-alpha.79-ios-unsigned.ipa",
+          "size": 16429978,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.64",
           "date": "2026-09-09T19:31:00.788765+00:00",
           "localizedDescription": "Background calling TEST: audio standby keeps incoming WhatsApp calls eligible while Unified remains running. Locked-screen acceptance is pending. Reopen Unified after calls or interruptions in this trial.",
