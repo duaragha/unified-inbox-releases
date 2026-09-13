@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.69",
+          "date": "2026-09-13T03:41:55.141740+00:00",
+          "localizedDescription": "Faster inbox startup: overlap saved-session reads, preserve validated recovery, and avoid redundant cache work before live sync.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.86/Unified-0.1.0-alpha.86-ios-unsigned.ipa",
+          "size": 16437425,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.68",
           "date": "2026-09-13T01:47:58.028262+00:00",
           "localizedDescription": "Fix inbox sync getting stuck on merged-chat route updates and recover safely from affected saved sync positions.",
