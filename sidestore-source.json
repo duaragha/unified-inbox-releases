@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.67",
+          "date": "2026-09-13T01:19:28.937245+00:00",
+          "localizedDescription": "Recover mobile inbox sync after app suspension and cancel stalled requests when reopening.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.84/Unified-0.1.0-alpha.84-ios-unsigned.ipa",
+          "size": 16434617,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.66",
           "date": "2026-09-10T02:28:59.033595+00:00",
           "localizedDescription": "Relaunching is quick again: the saved inbox no longer revalidates the whole message history on the phone's UI thread before the app becomes usable.",
