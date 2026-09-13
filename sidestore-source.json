@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.68",
+          "date": "2026-09-13T01:47:58.028262+00:00",
+          "localizedDescription": "Fix inbox sync getting stuck on merged-chat route updates and recover safely from affected saved sync positions.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.85/Unified-0.1.0-alpha.85-ios-unsigned.ipa",
+          "size": 16434981,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.67",
           "date": "2026-09-13T01:19:28.937245+00:00",
           "localizedDescription": "Recover mobile inbox sync after app suspension and cancel stalled requests when reopening.",
