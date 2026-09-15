@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.75",
+          "date": "2026-09-15T18:01:55.237510+00:00",
+          "localizedDescription": "Restore chat history when startup omits attachment previews, preserving pairing and cached messages.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.92/Unified-0.1.0-alpha.92-ios-unsigned.ipa",
+          "size": 16439776,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.73",
           "date": "2026-09-15T16:55:33.027341+00:00",
           "localizedDescription": "Automatically recover incompatible saved sync state after an app update or relaunch while preserving pairing and pending messages.",
