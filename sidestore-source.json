@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.73",
+          "date": "2026-09-15T16:55:33.027341+00:00",
+          "localizedDescription": "Automatically recover incompatible saved sync state after an app update or relaunch while preserving pairing and pending messages.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.90/Unified-0.1.0-alpha.90-ios-unsigned.ipa",
+          "size": 16437906,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.71",
           "date": "2026-09-14T16:02:54.177339+00:00",
           "localizedDescription": "Coordinated alpha.88 release with secure Instagram desktop sign-in and reconnection support.",
