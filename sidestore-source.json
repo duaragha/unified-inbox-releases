@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.83",
+          "date": "2026-09-16T14:08:04.721224+00:00",
+          "localizedDescription": "Photo badges match the link accent, and thread rows on mobile now show photo and video badges.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.100/Unified-0.1.0-alpha.100-ios-unsigned.ipa",
+          "size": 16535025,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.82",
           "date": "2026-09-16T05:40:36.191690+00:00",
           "localizedDescription": "Lock the lists while swiping and restyle archive and reply as Beeper-style icon actions.",
