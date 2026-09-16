@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.85",
+          "date": "2026-09-16T14:10:00.633133+00:00",
+          "localizedDescription": "Liquid Glass across the inbox: glass bottom sheets, emoji picker, date dividers, reply and undo banners, and buttons.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.102/Unified-0.1.0-alpha.102-ios-unsigned.ipa",
+          "size": 16535462,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.83",
           "date": "2026-09-16T14:08:04.721224+00:00",
           "localizedDescription": "Photo badges match the link accent, and thread rows on mobile now show photo and video badges.",
