@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.76",
+          "date": "2026-09-15T20:39:03.864000+00:00",
+          "localizedDescription": "Match the desktop design language on mobile with native Liquid Glass icons, glass bars, and desktop iconography.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.93/Unified-0.1.0-alpha.93-ios-unsigned.ipa",
+          "size": 16537163,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.75",
           "date": "2026-09-15T18:01:55.237510+00:00",
           "localizedDescription": "Restore chat history when startup omits attachment previews, preserving pairing and cached messages.",
