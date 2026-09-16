@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.82",
+          "date": "2026-09-16T05:40:36.191690+00:00",
+          "localizedDescription": "Lock the lists while swiping and restyle archive and reply as Beeper-style icon actions.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.99/Unified-0.1.0-alpha.99-ios-unsigned.ipa",
+          "size": 16533954,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.76",
           "date": "2026-09-15T20:39:03.864000+00:00",
           "localizedDescription": "Match the desktop design language on mobile with native Liquid Glass icons, glass bars, and desktop iconography.",
