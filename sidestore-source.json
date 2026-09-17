@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.87",
+          "date": "2026-09-17T14:15:15.549544+00:00",
+          "localizedDescription": "iMessage-style chat: bubble tails, Delivered/Read receipts, send-mic swap, and bold text.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.104/Unified-0.1.0-alpha.104-ios-unsigned.ipa",
+          "size": 16539601,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.86",
           "date": "2026-09-16T19:52:26.916386+00:00",
           "localizedDescription": "iMessage-style chat: blue outgoing bubbles, grey incoming bubbles, grouped corners, and a matching blue send button.",
